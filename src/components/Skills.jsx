@@ -13,6 +13,11 @@ import {
   SiExpress,
   SiGithub,
   SiPostman,
+  SiMysql,
+  SiPython,
+  SiPandas,
+  SiNumpy,
+  SiStreamlit,
 } from "react-icons/si";
 
 const skills = [
@@ -24,6 +29,11 @@ const skills = [
   { name: "Node.js", icon: <FaNodeJs className="text-green-500" /> },
   { name: "Express.js", icon: <SiExpress className="text-gray-200" /> },
   { name: "MongoDB", icon: <SiMongodb className="text-green-400" /> },
+  { name: "Mysql", icon: <SiMysql className="text-green-400" /> },
+  { name: "Python", icon: <SiPython className="text-yellow-400" /> },
+  { name: "Pandas", icon: <SiPandas className="text-red-400" /> },
+  { name: "Numpy", icon: <SiNumpy className="text-blue-400" /> },
+  { name: "Streamlit", icon: <SiStreamlit className="text-orange-400" /> },
   { name: "Git", icon: <FaGitAlt className="text-red-500" /> },
   { name: "GitHub", icon: <SiGithub className="text-white" /> },
   { name: "Postman", icon: <SiPostman className="text-orange-400" /> },

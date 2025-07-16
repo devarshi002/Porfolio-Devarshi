@@ -5,15 +5,15 @@ const projects = [
     name: "Spam Message Classifier",
     desc: "A machine learning app that classifies messages as spam or ham using Naive Bayes.",
     tech: ["Python", "Streamlit"],
-    github: "https://github.com/devarshi2/spam-classifier",
-    live: "https://spam-classifier.streamlit.app",
+    github: "https://github.com/devarshi002/email_sms_spam_detector",
+    live: "https://emailsmsspamdetector.streamlit.app/",
   },
   {
-    name: "Tiffin Booking App",
-    desc: "Web-based tiffin booking app with thali selection and real-time updates.",
-    tech: ["Flask", "JavaScript", "MySQL"],
-    github: "https://github.com/devarshi2/tiffin-app",
-    live: "",
+    name: "LAZAREV",
+    desc: "Digital Product Design Agency",
+    tech: ["JavaScript", "Css", "Html"],
+    github: "https://github.com/devarshi002/frontend-website",
+    live: "https://devarshi002.github.io/frontend-website/",
   },
   {
     name: "Ecommerce Dashboard",
@@ -26,8 +26,8 @@ const projects = [
     name: "My Portfolio",
     desc: "This very portfolio you’re browsing!",
     tech: ["React", "Tailwind CSS"],
-    github: "https://github.com/devarshi2/portfolio",
-    live: "https://devarshi-portfolio.vercel.app",
+    github: "https://github.com/devarshi002/portfolio-devarshi",
+    live: "https://porfolio-devarshi.vercel.app/",
   },
 ];
 
